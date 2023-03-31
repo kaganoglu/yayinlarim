@@ -25,6 +25,7 @@ Siber güvenlik ile ilgili yazıya döktüğüm araştırma,rapor,çalışma vb.
 20.  [BAD-USB Digispark](https://github.com/kaganoglu/Bad-Usb-Digispark "BAD-USB Digispark")
 21.  [Broken Authentication and Session Management](https://www.infinitumit.com.tr/broken-authentication-and-session-management/")
 22. [Advanced Persistent Threat (APT) Nedir ?](https://www.infinitumit.com.tr/apt-nedir/ "APT Nedir ?")
+23. [Ram İmajı Analizi](https://github.com/kaganoglu/ram-imaj-analizi/ "Ram İmajı Analizi")
 
 ------------
 
